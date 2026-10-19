@@ -6,7 +6,7 @@ FAST NU Lahore - Computer Organization and Assembly Language Programs
 ## Student Information
 
 - **Name:** Sufian Azhar
-- **Roll Number:** YOUR_ROLL_NUMBER
+- **Roll Number:** L25-0692
 - **University:** FAST NUCES Lahore
 - **Course:** Computer Organization and Assembly Language (COAL)
 
